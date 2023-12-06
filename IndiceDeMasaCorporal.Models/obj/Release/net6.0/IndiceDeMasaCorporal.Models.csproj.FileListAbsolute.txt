@@ -1,0 +1,11 @@
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\bin\Release\net6.0\IndiceDeMasaCorporal.Models.deps.json
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\bin\Release\net6.0\IndiceDeMasaCorporal.Models.dll
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\bin\Release\net6.0\IndiceDeMasaCorporal.Models.pdb
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\obj\Release\net6.0\IndiceDeMasaCorporal.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\obj\Release\net6.0\IndiceDeMasaCorporal.Models.AssemblyInfoInputs.cache
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\obj\Release\net6.0\IndiceDeMasaCorporal.Models.AssemblyInfo.cs
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\obj\Release\net6.0\IndiceDeMasaCorporal.Models.csproj.CoreCompileInputs.cache
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\obj\Release\net6.0\IndiceDeMasaCorporal.Models.dll
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\obj\Release\net6.0\refint\IndiceDeMasaCorporal.Models.dll
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\obj\Release\net6.0\IndiceDeMasaCorporal.Models.pdb
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\obj\Release\net6.0\ref\IndiceDeMasaCorporal.Models.dll

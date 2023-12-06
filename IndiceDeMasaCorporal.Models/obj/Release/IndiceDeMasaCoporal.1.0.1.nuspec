@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>IndiceDeMasaCoporal</id>
+    <version>1.0.1</version>
+    <title>Mis paquetes locales</title>
+    <authors>IndiceDeMasaCorporal.Models</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\bin\Release\net6.0\IndiceDeMasaCorporal.Models.dll" target="lib\net6.0\IndiceDeMasaCorporal.Models.dll" />
+  </files>
+</package>

@@ -1,0 +1,14 @@
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\bin\Debug\net6.0\BodyMassIndex.Console.exe
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\bin\Debug\net6.0\BodyMassIndex.Console.deps.json
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\bin\Debug\net6.0\BodyMassIndex.Console.runtimeconfig.json
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\bin\Debug\net6.0\BodyMassIndex.Console.dll
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\bin\Debug\net6.0\BodyMassIndex.Console.pdb
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\obj\Debug\net6.0\BodyMassIndex.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\obj\Debug\net6.0\BodyMassIndex.Console.AssemblyInfoInputs.cache
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\obj\Debug\net6.0\BodyMassIndex.Console.AssemblyInfo.cs
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\obj\Debug\net6.0\BodyMassIndex.Console.csproj.CoreCompileInputs.cache
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\obj\Debug\net6.0\BodyMassIndex.Console.dll
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\obj\Debug\net6.0\refint\BodyMassIndex.Console.dll
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\obj\Debug\net6.0\BodyMassIndex.Console.pdb
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\obj\Debug\net6.0\BodyMassIndex.Console.genruntimeconfig.cache
+C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\BodyMassIndex.Console\obj\Debug\net6.0\ref\BodyMassIndex.Console.dll

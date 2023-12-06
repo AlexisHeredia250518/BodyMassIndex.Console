@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hB0kv4///0gfqUFQJPUQgCGqRNRbDSqS++rJhci22mNKaivE03GeK8MOozJRIYwgyiFBQifm5umCTADFDB0/lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hered\\Downloads\\Curso C#\\BodyMassIndex.Console_2\\BodyMassIndex.Console\\BodyMassIndex.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hered\\.nuget\\packages\\indicedemasacoporal\\1.0.1\\indicedemasacoporal.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

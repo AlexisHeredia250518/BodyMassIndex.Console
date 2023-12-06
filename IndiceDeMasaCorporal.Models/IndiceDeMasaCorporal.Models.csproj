@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsPublishable>True</IsPublishable>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <Title>IndiceDeMasaCoporal.Models</Title>
+    <PackageId>$(AssemblyName)</PackageId>
+    <Version>$(VersionPrefix)</Version>
+    <PackageProjectUrl>C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\bin\Release\net6.0</PackageProjectUrl>
+    <RepositoryUrl>C:\Users\hered\Downloads\Curso C#\BodyMassIndex.Console\IndiceDeMasaCorporal.Models\bin\Release\net6.0</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
